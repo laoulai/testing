@@ -13,6 +13,42 @@ Teilnehmer und Status (Zusage, Absage, keine Antwort)
 |Web Science, Wissenschaftliche Kommunikation im Social web, Informationswissenschaft
 |*Abgesagt*
 
+|Martin Etzrondt
+|ETH-Zuerich, D-BSSE, Mitglied bei Blockchain for Scinence
+|*Zugesagt*
+
+|Juliane Meissner
+|Journalistin
+|*Zugesagt*
+
+|Guido Scherp
+|Experte für Open Access Themen (organisiert auch die Open Science Konferenz)
+|*Zugesagt*
+
+|Sascha Friesike
+|VU Amsterdam, Experte in Open Access Themen, Science Data 
+|*Zugesangt*
+
+|Gert Wagner
+|DIW, Experte in wissenschaftlicher Politikberatung, Science Data
+|*Zugesagt*
+
+|Lambert Heller 
+|Open Science Lab
+|*keine Antwort*
+
+|Larissa Wunderlich
+|Designerin, Expertin in Kommunikation und PR
+|*keine Antwort*
+
+|Marcel Hebing
+|DIW, technische Expertise, impact.distillery, Open Access gut vertraut
+|*Abgesagt*
+
+|Shakib Wassey
+|Web-App, technische Expertise, entwickelt gerade auch eine Plattform für den Austausch von wissenschaftlichen Inhalten 
+|*keine Antwort*
+
 |TorqueBox
 |Application Server
 |===
