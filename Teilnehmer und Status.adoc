@@ -3,50 +3,61 @@ Nataliia Sokolovska <nataliia.sokolovska@hiig.de>
 
 Teilnehmer und Status (Zusage, Absage, keine Antwort)
 
-[cols=3*]
-|===
+[cols=4*]
+|====
+|
 |Person 
 |Beschreibung
 |Status
 
+|1.
 |Martin Etzrondt
 |ETH-Zuerich, D-BSSE, Mitglied bei Blockchain for Scinence
 |*Zugesagt*
 
+|2.
 |Juliane Meissner
 |Journalistin
 |*Zugesagt*
 
+|3.
 |Guido Scherp
 |Experte für Open Access Themen (organisiert auch die Open Science Konferenz)
 |*Zugesagt*
 
+|4.
 |Sascha Friesike
 |VU Amsterdam, Experte in Open Access Themen, Science Data 
 |*Zugesangt*
 
+|5.
 |Gert Wagner
 |DIW, Experte in wissenschaftlicher Politikberatung, Science Data
 |*Zugesagt*
 
+|6.
 |Lambert Heller 
 |Open Science Lab
 |*keine Antwort*
 
+|7.
 |Larissa Wunderlich
 |Designerin, Expertin in Kommunikation und PR
 |*keine Antwort*
 
+|8.
 |Marcel Hebing
 |DIW, technische Expertise, impact.distillery, Open Access gut vertraut
 |*Abgesagt*
 
+|9.
 |Shakib Wassey
 |Web-App, technische Expertise, entwickelt gerade auch eine Plattform für den Austausch von wissenschaftlichen Inhalten 
 |*keine Antwort*
 
+|10.
 |Isabella Peters
 |Web Science, Wissenschaftliche Kommunikation im Social web, Informationswissenschaft
 |*Abgesagt*
 
-|===
+|====
