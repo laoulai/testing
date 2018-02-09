@@ -1,0 +1,18 @@
+= Expertenworkshop 1: Anforderungsanalyse
+Nataliia Sokolovska <nataliia.sokolovska@hiig.de>
+
+Teilnehmer und Status (Zusage, Absage, keine Antwort)
+
+[cols=3*]
+|===
+|Person 
+|Beschreibung
+|Status
+
+|Isabella Peters
+|Web Science, Wissenschaftliche Kommunikation im Social web, Informationswissenschaft
+|*Abgesagt*
+
+|TorqueBox
+|Application Server
+|===
