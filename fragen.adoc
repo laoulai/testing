@@ -1,8 +1,7 @@
 = Expertenworkshop 1: Anforderungsanalyse
 Nataliia Sokolovska <nataliia.sokolovska@hiig.de>
 
-
-= Fragen, die wir beantwortet haben wollen
+= Fragen, die wir beantwortet haben wollen:
 
 1. Wir verstehen, welche Funktionen in der Webplattform/App drin sein sollen/ welche drin sein können.
 
