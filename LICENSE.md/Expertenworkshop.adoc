@@ -1,0 +1,15 @@
+= Expertenworkshop für die technische Umsetzung 
+Rodger Burmeister <burmeister@fzi.de>
+:imagesdir: ./img
+
+Liste von Namen die potentiell für den 2. Expertenworkshop in Frage kommen.
+
+== FZI 
+* Simon Krause 
+  * Xamarin Forms, plattformübergreifende Entwicklung von Apps 
+  * Empfehlung von Michael Schmidt-Sautter
+* Christian Stier
+* Jörg Hens / Stephan Seifermann >> DPS-Blockchain (SE)
+  * Info von Roman
+
+== Extern 
