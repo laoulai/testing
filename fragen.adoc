@@ -1,0 +1,19 @@
+= Expertenworkshop 1: Anforderungsanalyse
+Nataliia Sokolovska <nataliia.sokolovska@hiig.de>
+
+
+== Fragen, die wir beantwortet haben wollen
+
+1. Wir verstehen, welche Funktionen in der Webplattform/App drin sein sollen/ welche drin sein können.
+
+
+2. Wir haben Feedback zum SWIPE-Prinzip
+
+
+3. Wir verstehen, wie der Autor dargestellt wird/wie er gerankt wird/welche Rechte jemand aus der nichtwissenschaftlichen Community hat. 
+
+
+4. Erste Mechanismen zur Qualitätskontrolle sind erarbeitet.
+
+
+5. Infos zu Publikationen: Wissen genau, ob Inhalte verlinkt sein sollen, oder direkt hochgeladen.
