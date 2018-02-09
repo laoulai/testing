@@ -9,10 +9,6 @@ Teilnehmer und Status (Zusage, Absage, keine Antwort)
 |Beschreibung
 |Status
 
-|Isabella Peters
-|Web Science, Wissenschaftliche Kommunikation im Social web, Informationswissenschaft
-|*Abgesagt*
-
 |Martin Etzrondt
 |ETH-Zuerich, D-BSSE, Mitglied bei Blockchain for Scinence
 |*Zugesagt*
@@ -49,6 +45,8 @@ Teilnehmer und Status (Zusage, Absage, keine Antwort)
 |Web-App, technische Expertise, entwickelt gerade auch eine Plattform für den Austausch von wissenschaftlichen Inhalten 
 |*keine Antwort*
 
-|TorqueBox
-|Application Server
+|Isabella Peters
+|Web Science, Wissenschaftliche Kommunikation im Social web, Informationswissenschaft
+|*Abgesagt*
+
 |===
