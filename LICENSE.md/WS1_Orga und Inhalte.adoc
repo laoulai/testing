@@ -1,0 +1,55 @@
+= Expertenworkshop 1: Anforderungsanalyse 
+Nataliia Sokolovska <nataliia.sokolovska@hiig.de>
+
+Organisatorische Details und Inhaltliche Planung des ersten Workshops
+
+== Datum
+
+15. März 2018
+Start: 11 Uhr?
+
+== Ort
+
+Alexander von Humboldt Institut für Internet und Gesellschaft
+Französiche Str. 9 
+Raum Kosmos
+
+== Geplanter Aufbau
+
+*1. Seession*: Intro
+*2. Seession*: Features (ca 2 h)
+*3. Seession*: Teaser (ca 1 h)
+
+== Top-Features 
+
+*SWIPE-Funktion*
+
+* Links und rechts, je nachdem, ob die Inhalte gefallen
+
+*Evaluationsmatrix*
+
+* Welche Punkte kommen rein?
+* Wie groß soll sie sein?
+
+*Signalling*
+
+* Peer-Reviewed, Link zur Publikationsseite
+
+*Akteure*
+
+* Identity: welche Infos zum Autor erscheinen?
+* Personalisierte Daten: Welche Daten braucht der Autor für einen Accaunt?
+* Ranking
+* Nichtakademische Zielpublika
+
+*Publishing*
+
+* Qualitätskontrolle bei Veröffentlichung und Bewertung
+
+
+*Contents*
+
+* Was genau wird auf der Plattform dargestellt?
+* Publikation oder Link zur Publikation?
+* Auf wen 
+
